@@ -3,7 +3,7 @@
 > 팀프로젝트가 완성되지 못할 상황을 대비하여 DDD를 학습하며 개인적으로 연습하기 위한 레포지토리입니다. 이 브랜치에서는 배포를 위한 Jenkins 학습과 자동 배포 Setting, 도커와 쿠버네티스를 이용한 무중단 배포까지 연습하는 것을 목표로 합니다.
 
 ## 개발환경
-* Spring Framework 5.1.8.RELEASE
+* Spring Framework 5.1.8.RELEASE.
 * Tomcat 9.0.22
 * Gradle
 * Docker 
